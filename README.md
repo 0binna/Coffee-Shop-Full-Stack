@@ -11,7 +11,7 @@ You have been called on to demonstrate your newly learned skills to create a ful
 3. Allow the shop baristas to see the recipe information.
 4. Allow the shop managers to create new drinks and edit existing drinks.
 
-## Tasks
+## Tasks (Completed)
 
 There are `@TODO` comments throughout the project. We recommend tackling the sections in order. Start by reading the READMEs in:
 
@@ -20,7 +20,15 @@ There are `@TODO` comments throughout the project. We recommend tackling the sec
 
 ## About the Stack
 
-We started the full stack application for you. It is designed with some key functional areas:
+Tech stack includes:
+
+- `Python3` & `Flask` for server language and API development. 
+- `SQLAlchemy` as ORM. 
+- `Sqlite` as database.
+- `Ionic` to serve and build the frontend (provided by Udacity Team).
+- `Auth0` as third-party authentication system.
+- `jose` JavaScript Object Signing and Encryption for JWTs. Useful for encoding, decoding, and verifying JWTs.
+- `postman` to automatize endpoint testing & verification of correct Authorization behaviour.
 
 ### Backend
 
